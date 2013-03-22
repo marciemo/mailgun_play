@@ -1,0 +1,10 @@
+require 'faraday'
+require 'rspec'
+require 'json'
+require 'base64'
+# require 'oauth'
+# require 'active_model'
+require 'bundler'
+
+require './env'
+require './lib/message'
